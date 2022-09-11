@@ -1,2 +1,4 @@
-# exercicios-generation-lista2
-Exercícios da segunda lista da Generation. Portugol.
+#generation-conditional-statements
+
+Exercícios da SEGUNDA LISTA da Generation Brazil, sobre LAÇOS CONDICIONAIS. Portugol.
+Lista de exercícios adicionada.
